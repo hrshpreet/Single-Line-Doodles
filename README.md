@@ -3,7 +3,7 @@ This Python project converts images into single-line drawings using a random spl
 
 ## Examples:
 ![Original Image](examples/akash.jpg)
-![Doodle](examples/akash_result.jpg)
+![Doodle](examples/akash_result.png)
 
 ## Dependencies
 - OpenCV
